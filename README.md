@@ -1,5 +1,6 @@
 # baumkuchen_exercise
 Part of the group exercise HW due 1/29/21
+
 Step 1)
   Create a dictonary.txt file which will hold the German word and translate it ifthere is a translation for it.
   
